@@ -17,13 +17,12 @@ The Mushroom Classification project aims to build a machine learning model that 
 
 
 ## Tools and Technologies
-- **Programming Language**: Python
-- **Libraries**:
-  - Data Processing: Pandas, NumPy
-  - Visualization: Matplotlib, Seaborn
-  - Machine Learning: Scikit-learn
-  - Deployment: Streamlit,Docker,Digital Ocean
-- **Platform**: The application is hosted and accessible via a web interface.
+- **Jupyter_Notebook - To create the model
+- **MLflow/DagsHub : To log the values of each model
+- **Streamlit**: A Python library for creating interactive web applications quickly and easily.  
+- **Docker**: A platform for containerizing applications to ensure consistency and portability.  
+- **DigitalOcean**: A cloud hosting platform for deploying and scaling applications.  
+.
 
 
 ## Project Highlights
@@ -31,9 +30,14 @@ The Mushroom Classification project aims to build a machine learning model that 
 - **User-Friendly Interface**: The Streamlit app provides a clean and simple interface for users to interact with the model.
 - **Educational Value**: This project serves as a demonstration of machine learning's application in a biological context.
 
-## Deployment URL
+## Project URL
 Access the deployed Streamlit application here:
+[Video]
 [Streamlit Mushroom Classifier](https://mushroomclassification-pepqd4asnmvx4uzckhvint.streamlit.app/)
+[MLFlow / DagsHub Experiments](https://dagshub.com/NithisshKrishna/fall_2024_mushroom_Classification.mlflow/#/experiments/1)
+[Fast api model](http://68.183.137.170:8002//predict)
+
+
 
 ## Conclusion
 This project showcases how machine learning can be used effectively for classification tasks and demonstrates the entire workflow, from data preparation to model deployment. The interactive Streamlit app makes it accessible and practical for end-users.
