@@ -34,7 +34,7 @@ The Mushroom Classification project aims to build a machine learning model that 
 - [Recorded Video](https://drive.google.com/file/d/1fo_SDkMZOY5ybWWCKZwYI_B4sxOGcyyn/view?usp=sharing)  
 - [Streamlit Mushroom Classifier](https://mushroomclassification-pepqd4asnmvx4uzckhvint.streamlit.app/)  
 - [MLFlow / DagsHub Experiments](https://dagshub.com/NithisshKrishna/fall_2024_mushroom_Classification.mlflow/#/experiments/1)  
-- [Fast API Model](http://68.183.137.170:8002//predict)  
+- [Fast API Model](http://68.183.137.170:8002/)  
 
 
 
